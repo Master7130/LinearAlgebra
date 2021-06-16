@@ -3,7 +3,7 @@
 Files Included:
 
 vector.py - contains the class and functions that provide the 
-key functionality of the library
+key functionality of the module
 
 vector_input.py - contains the class and functions that are 
 used by vector.py
@@ -11,12 +11,12 @@ used by vector.py
 test_functions.py - contains the tests for the functions in
 vector.py
 
-This library is a starting point for other programs that use
-the functionality that this library provides.
+This module is a starting point for other programs that use
+the functionality that this module provides.
 
 Also, as you can see the README.md file isn't complete. It's 
 missing the table of contents, installation instructions, 
-usage instructions, etc. The README.md will be updated to 
+usage instructions, etc. The README.md may be updated to 
 include more things, and the functions in the vector class will
 be shortened. More functions may or may not be added and 
 full coverage for the tests may not be achieved. I have 
