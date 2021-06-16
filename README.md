@@ -22,11 +22,9 @@ usage instructions, etc. The README.md will be updated to
 include more things, and the functions in the vector class will
 be shortened. More functions may or may not be added and 
 full coverage for the tests may not be achieved. I have 
-indentified a bug where if anything except a number is passed 
+identified a bug where if anything except a number is passed 
 as input, the program throws an exception instead of printing 
-and error statement. This error will most likely be fixed by
-6/18/21 and the final version of this project will be posted
-by the end of June.
+and error statement. 
 
 Also, I am aware that numpy has similar functions to some that
 I have made. I started this without knowing that but continued
