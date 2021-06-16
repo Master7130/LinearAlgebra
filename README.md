@@ -11,10 +11,8 @@ used by vector.py
 test_functions.py - contains the tests for the functions in
 vector.py
 
-This library is a starting point for other programs that expand 
-on the functionality of this one. The library can be further 
-optimized by shortening the length of the functions because 
-some code such as the code for taking the input is redundant.
+This library is a starting point for other programs that use
+the functionality that this library provides.
 
 Also, as you can see the README.md file isn't complete. It's 
 missing the table of contents, installation instructions, 
